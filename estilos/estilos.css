@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(245, 244, 244);
+}
+.logotipo img { 
+    left:50px;
+    top: 50px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+header ul li {
+    display: inline-block;
+    list-style: none;
+    padding: 10px 20px;
+}
+
+header ul li a{
+    padding: 10px 20px;
+    display: block;
+    
+    
+}
+
+header, .main , footer {
+    
+    width: 90%;
+    max-width: 1000px;
+    margin: 20px auto;
+
+}
+
+header ul {
+    background-color: rgb(116, 112, 112);
+    overflow: hidden;
+
+}
+
+.main .articulos {
+    width: 68.5%;
+    float:left;
+    margin-right: 1.5%;
+    
+}
+
+aside {
+    width: 30%;
+    float:left;
+    background-color: rgb(184, 143, 85);
+    padding: 25px;
+    box-sizing: border-box;
+    
+}
+
+.main .articulos article {
+    padding: 20px;
+    background-color: #9b2a2a;
+    margin-bottom: 20px;
+}
+
+footer{
+    background: #000;
+    color: #fff;
+    clear: both;
+    padding: 10px 0px;
+    text-align: center;
+    
+}
+
+.linkedin {
+    width: 50px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+
+
+.instagram{
+    width: 50px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+
+
